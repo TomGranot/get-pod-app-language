@@ -1,0 +1,31 @@
+[
+	{
+		"language": "java",
+		"commands": [
+			"./mvnw",
+			"JAVA_HOME",
+			"java"
+		]
+	},
+	{
+		"language": "node",
+		"commands": [
+			"npm",
+			"npx",
+			"create-react-app",
+			"index.js"
+		]
+	},
+	{
+		"language": "python",
+		"commands": [
+			"pip install"
+		]
+	},
+	{
+		"language": "go",
+		"commands": [
+			"go install"
+		]
+	}
+]
